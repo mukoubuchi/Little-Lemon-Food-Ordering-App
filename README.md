@@ -24,5 +24,5 @@
    -The food ordering app will be automatically launched in a while
 
 <p align="center">
-     <img src="https://github.com/mukoubuchi/Little-Lemon-reservation-app/blob/main/image/littleLemonReservation.gif">
+     <img src="https://github.com/mukoubuchi/Little-Lemon-Food-Ordering-App/blob/main/image/littleLemonFoodOrderingApp.gif">
 </p>
